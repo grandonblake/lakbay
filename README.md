@@ -23,11 +23,11 @@ The significance of this study aims to promote local tourism in the Philippines 
 - Future Researchers - This can be a research guide for future researchers in their study as a basis of information. They can use this study to promote local tourism in the Philippines and further improve their research.
 
 ## Project Screenshots
-<img src="/screenshots/StartUpScreen.png" width=25% height=25%>
-<img src="/screenshots/SignInScreen.png" width=25% height=25%>
-<img src="/screenshots/SignUpScreen.png" width=25% height=25%>
-<img src="/screenshots/HomeScreen.png" width=25% height=25%>
-<img src="/screenshots/PlaceScreen.png" width=25% height=25%>
-<img src="/screenshots/PlaceCommentsScreen.png" width=25% height=25%>
-<img src="/screenshots/SavedPlacesScreen.png" width=25% height=25%>
-<img src="/screenshots/ProfileScreen.png" width=25% height=25%>
+<img src="/screenshots/StartUpScreen.jpg" width=25% height=25%>
+<img src="/screenshots/SignInScreen.jpg" width=25% height=25%>
+<img src="/screenshots/SignUpScreen.jpg" width=25% height=25%>
+<img src="/screenshots/HomeScreen.jpg" width=25% height=25%>
+<img src="/screenshots/PlaceScreen.jpg" width=25% height=25%>
+<img src="/screenshots/DiscoverScreen.jpg" width=25% height=25%>
+<img src="/screenshots/BookmarksScreen.jpg" width=25% height=25%>
+
