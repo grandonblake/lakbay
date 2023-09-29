@@ -1,5 +1,6 @@
 # lakbay
 lakbay: A Mobile Application for Recommending Tourist Attractions via Hybrid Filtering  Approach
+
 It is a mobile travel recommendation application using  the Flutter framework, the Dart language, and the Python language.
 It utilizes recommendation algorithms such as the Item-based Collaborative Filtering and the Content-based Filtering.
 
@@ -19,7 +20,7 @@ This study aims to develop a mobile application to recommend tourist spots, usin
 The significance of this study aims to promote local tourism in the Philippines and create a mobile environment where tourists can experience certain tourist attractions. Lakbay lets tourists immerse themselves fully in the cultural wonders that the mobile application has provided them. The following people will benefit from the contents of this study:
 - Tourists and tourism agencies- This is a great help for tourists for them to be guided correctly about each tourist spot and attraction in the Philippines that they would like to travel to, as well as to inform tourism agencies to use this application to promote local tourism in the Philippines.
 - Local Government - This research will help the local government by providing features for promoting tourism in the Philippines. It plays an essential role in the country's tourism industry as it boosts the current tourism sector of the GDP in the Philippines.
-- Future Researchers - This can be a research guide for future researchers in their study as a basis of information. They can use this study to promote local tourism in the Philippines and further improve their research
+- Future Researchers - This can be a research guide for future researchers in their study as a basis of information. They can use this study to promote local tourism in the Philippines and further improve their research.
 
 ## Project Screenshots
 <img src="/screenshots/StartUpScreen.png" width=25% height=25%>
