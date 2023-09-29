@@ -24,8 +24,8 @@ The significance of this study aims to promote local tourism in the Philippines 
 
 ## Project Screenshots
 <img src="/screenshots/LandingScreen.jpg" width=25% height=25%>
-<img src="/screenshots/SignInScreen.jpg" width=25% height=25%>
-<img src="/screenshots/SignUpScreen.jpg" width=25% height=25%>
+<img src="/screenshots/SignInScreen2.jpg" width=25% height=25%>
+<img src="/screenshots/SignUpScreen2.jpg" width=25% height=25%>
 <img src="/screenshots/HomeScreen.jpg" width=25% height=25%>
 <img src="/screenshots/PlaceScreen.jpg" width=25% height=25%>
 <img src="/screenshots/DiscoverScreen.jpg" width=25% height=25%>
