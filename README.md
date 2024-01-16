@@ -1,8 +1,8 @@
 # lakbay
-lakbay: A Mobile Application for Recommending Tourist Attractions via Hybrid Filtering  Approach
+lakbay: A Mobile Application for Recommending Tourist Attractions via Hybrid Filtering Approach
 
-It is a mobile travel recommendation application using  the Flutter framework, the Dart language, and the Python language.
-It utilizes recommendation algorithms such as the Item-based Collaborative Filtering and the Content-based Filtering.
+It is a mobile travel recommendation application using Flutter as the framework, Python Flask for the recommender algorithms, and Cloud Firestore for the database.
+It utilizes a hybrid filtering approach of two recommendation algorithms, namely, Item-based Collaborative Filtering and Content-based Filtering.
 
 This project was a group effort that was submitted on July 15, 2023 as a Final Project requirement during my 3rd year in College.
 
